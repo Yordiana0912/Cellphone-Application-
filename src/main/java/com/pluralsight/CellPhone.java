@@ -50,7 +50,8 @@ public class CellPhone {
         return name ;
     }
 
-
-
+    public void setDial(){
+        System.out.println();
+    }
 }
 

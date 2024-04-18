@@ -30,4 +30,7 @@ public class CellPhoneApplication {
         System.out.println(phone.getSerialNumber() + " " + phone.getPhoneNumber() + " " + phone.getCarrier() + " " + phone.getCellPhoneModel() + " " + phone.getName());
     }
 
+
+
+
 }
